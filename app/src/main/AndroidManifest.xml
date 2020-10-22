@@ -10,8 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
 
-
-        <activity android:name=".UI.OfferListActivity">
+        <activity android:name=".UI.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
