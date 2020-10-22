@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="submitFAiled"> One of User Input is invalid </string>
+</resources>
